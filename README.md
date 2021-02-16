@@ -1,7 +1,11 @@
-# README
+# To-Do App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Project aim
+Personal todo list
+## Technologies
+Rails and Bootstrap
+## Status
+Done and deployed to Heroku
 
 Things you may want to cover:
 
